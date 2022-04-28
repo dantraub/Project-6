@@ -1,2 +1,6 @@
-# Project-6
-Daniel Trauberman submission for Project 6
+Project 6
+Exercise for MSCH-C220
+
+
+Created by
+Daniel Trauberman
